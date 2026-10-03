@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of imdong/flarum-ext-spam-alert.** Not for installation: use [Packagist](https://packagist.org/packages/imdong/flarum-ext-spam-alert) or the [upstream repository](https://github.com/imdong/flarum-ext-spam-alert).
 
-**0** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/imdong-flarum-ext-spam-alert/tree/archive/v0.0.1) · License: `GPL-2.0` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/imdong-flarum-ext-spam-alert/tree/archive/v0.0.1) · License: `GPL-2.0` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2023-10-21 | `^1.2.0` | [Browse](https://github.com/flarchive/imdong-flarum-ext-spam-alert/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/imdong-flarum-ext-spam-alert.json](https://github.com/flarchive/archive-index/blob/main/packages/imdong-flarum-ext-spam-alert.json)
 
